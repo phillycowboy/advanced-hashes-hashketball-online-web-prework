@@ -190,7 +190,7 @@ def player_stats(player)
         return player_name
 binding.pry
 
-
+      end
     end
   end
 end
