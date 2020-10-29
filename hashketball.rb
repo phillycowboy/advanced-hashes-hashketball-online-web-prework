@@ -202,7 +202,7 @@ def big_shoe_rebounds
     team_info[:players].each do |player|
       # player[:player_name].each do |stats|
         if player[:shoe] > shoe_size
-          
+
           binding.pry
         # end
     end
