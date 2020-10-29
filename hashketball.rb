@@ -201,7 +201,7 @@ def big_shoe_rebounds
       # if player[:shoe] == shoe
       #   return shoe
 binding.pry
-      end
+      # end
     end
   end
 end
