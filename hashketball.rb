@@ -183,6 +183,6 @@ def player_numbers(team_name)
   new_jersey_array
 end
 
-def player_stats
+def player_stats(player)
 binding.pry
 end
