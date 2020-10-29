@@ -163,7 +163,7 @@ def team_colors(name)
 end
 
 def team_names
-
+game_hash.each do |team_name, team_info|
   binding.pry
-
+  end
 end
