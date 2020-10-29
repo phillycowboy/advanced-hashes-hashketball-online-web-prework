@@ -168,3 +168,7 @@ game_hash.each do |teams, team_info|
     end
   names_array
 end
+
+def player_numbers
+
+end
