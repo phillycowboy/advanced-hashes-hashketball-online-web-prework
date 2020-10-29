@@ -179,7 +179,7 @@ def player_numbers(team_name)
 
           new_jersey_array.push(player[:number])
 
-            # binding.pry
+        end  # binding.pry
         end
       end
     end
