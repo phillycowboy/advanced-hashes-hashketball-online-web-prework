@@ -179,5 +179,5 @@ def player_numbers(number)
     binding.pry
     end
   end
-  new_jersey_array
+  # new_jersey_array
 end
