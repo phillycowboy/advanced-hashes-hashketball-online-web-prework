@@ -182,3 +182,7 @@ def player_numbers(team_name)
     end
   new_jersey_array
 end
+
+def player_stats
+
+end
