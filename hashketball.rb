@@ -169,4 +169,5 @@ game_hash.each do |teams, team_info|
         binding.pry
     end
   end
+  names_array
 end
