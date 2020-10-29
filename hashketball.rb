@@ -175,8 +175,9 @@ def player_numbers(team_name)
       # team_info[:players].each do |player|
         if team_info[:team_name] == [:team_name]
            team_info[:player].each do |number, value|
-             return player_name[:number]
-          # new_jersey_array.push(player[:number])
+             if number==value 
+               
+          new_jersey_array.push(player[:number])
 
             # binding.pry
         end
