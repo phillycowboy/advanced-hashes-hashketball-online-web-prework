@@ -164,7 +164,7 @@ end
 def team_names(name)
 game_hash.each do |teams, team_info|
     team_info.each do |home, away|
-      if [:home]==name
+      if [:team_name]==name
         # return name
         binding.pry
       end
