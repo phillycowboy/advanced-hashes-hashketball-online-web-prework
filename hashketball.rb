@@ -176,7 +176,7 @@ def player_numbers(team_name)
           team_info[:players].each do |player|
             new_jersey_array.push(player[:number])
 
-          end
+          
         end
       end
     end
