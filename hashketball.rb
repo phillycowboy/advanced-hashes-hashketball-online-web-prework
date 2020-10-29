@@ -178,7 +178,7 @@ def player_numbers(number)
         # if player[:player_name]==player_name
           # return player[:number]
             binding.pry
-        end
+        
       end
     end
   new_jersey_array
