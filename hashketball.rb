@@ -171,6 +171,10 @@ end
 
 def player_numbers
 game_hash.each do |teams, team_info|
+  team_info.each do |numbers|
+
+
+  end
 
   end
 end
