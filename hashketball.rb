@@ -177,7 +177,7 @@ def player_numbers(number)
           new_jersey_array.push([:number])
 
             binding.pry
-          end
+          # end
       end
     end
   new_jersey_array
