@@ -161,7 +161,7 @@ def team_colors(name)
   end
 end
 
-def team_names(name)
+def team_names(teams)
 game_hash.each do |team_name, team_info|
     team_info.each do |home, away|
 
