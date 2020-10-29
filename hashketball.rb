@@ -174,7 +174,6 @@ def player_numbers(team_name)
     game_hash.each do |teams, team_info|
       # team_info[:players].each do |player|
         if team_info[:team_name] == [:team_name]
-          binding.pry
            team_info[:player].map do |player_name|
              return player_name[:number]
           # new_jersey_array.push(player[:number])
