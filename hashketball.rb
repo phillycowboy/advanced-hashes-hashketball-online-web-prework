@@ -175,7 +175,7 @@ def player_numbers(number)
       team_info[:number].each do |player|
 
         new_jersey_array.push(team_info[:number])
-    
+
             binding.pry
 
       end
