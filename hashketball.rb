@@ -173,8 +173,6 @@ def player_numbers
 game_hash.each do |teams, team_info|
   team_info[:players].each do |player|
 
-
-  end
-
+    end
   end
 end
