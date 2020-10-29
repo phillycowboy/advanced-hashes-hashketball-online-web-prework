@@ -177,4 +177,5 @@ game_hash.each do |teams, team_info|
     # binding.pry
     end
   end
+  new_jersey_array
 end
