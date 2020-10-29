@@ -166,10 +166,10 @@ def team_names
 game_hash.each do |teams, team_info|
     # team_info.each do |home, away|
     #   if [:team_name]==[:team_name]
-      team_info.collect 
-      team_info[:team_name]  
+      team_info.collect
+      team_info[:team_name]
         binding.pry
-  
+
     end
   end
 
