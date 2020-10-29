@@ -163,7 +163,7 @@ end
 
 def team_names(name)
 game_hash.each do |team_name, team_info|
-    team_info.each do |teams|
+    team_info.each do |home, away|
 
   binding.pry
       # end
