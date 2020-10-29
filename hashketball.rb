@@ -183,7 +183,7 @@ def player_numbers(team_name)
   new_jersey_array
 end
 
-def player_stats(player)
+def player_stats(player_name)
   game_hash.each do |teams, team_info|
     team_info[:players].each do |stats|
       if team_info[:player_name]== stats
