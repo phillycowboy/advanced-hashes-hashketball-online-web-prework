@@ -167,6 +167,7 @@ game_hash.each do |teams, team_info|
   team_info.collect do
       team_info[:team_name]
         # binding.pry
+        team_name.push(names_array)
     end
   end
   names_array
