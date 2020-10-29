@@ -167,6 +167,7 @@ game_hash.each do |team_name, team_info|
       if name==team_name
         return team_name
   binding.pry
+      end
     end
   end
 end
