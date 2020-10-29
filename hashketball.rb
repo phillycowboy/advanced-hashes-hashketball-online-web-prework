@@ -171,7 +171,7 @@ end
 
 def player_numbers
 game_hash.each do |teams, team_info|
-  team_info[:players].each do |player|
+  team_info[:players].each do |number|
     binding.pry
     end
   end
