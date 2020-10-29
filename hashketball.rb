@@ -198,6 +198,8 @@ end
 def big_shoe_rebounds
   game_hash.each do |team_name, team_info|
     team_info[:players].each do |player|
+      if player[:shoe]==shoe
+        return player
 binding.pry
     end
   end
