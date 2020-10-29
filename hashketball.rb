@@ -156,8 +156,9 @@ def team_colors(name)
         team_info.each do |team, colors|
           # binding.pry
         if  name == colors
-          binding.pry
+          # binding.pry
           return  team_info[:colors]
+          binding.pry
       end
     end
   end
