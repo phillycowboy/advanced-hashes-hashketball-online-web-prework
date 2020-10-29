@@ -162,9 +162,8 @@ def team_colors(name)
   end
 end
 
-def team_names(name)
-if teams=team_names
-  return team_names
+def team_names(teams)
+
   binding.pry
   end
 end
