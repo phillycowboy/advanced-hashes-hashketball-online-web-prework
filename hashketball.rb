@@ -186,4 +186,5 @@ end
 def player_stats(player)
   game_hash.each do |teams, team_info|
 binding.pry
+  end
 end
