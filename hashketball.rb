@@ -170,7 +170,7 @@ game_hash.each do |teams, team_info|
 end
 
 def player_numbers(team_name)
-  # new_jersey_array=[]
+  new_jersey_array=[]
     game_hash.each do |teams, team_info|
       # team_info[:players].each do |player|
         if team_info[:team_name] == [:team_name]
@@ -182,5 +182,5 @@ def player_numbers(team_name)
         end
       end
     end
-  # new_jersey_array
+  new_jersey_array
 end
