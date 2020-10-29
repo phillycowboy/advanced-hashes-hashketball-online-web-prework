@@ -169,7 +169,7 @@ game_hash.each do |teams, team_info|
   names_array
 end
 
-def player_numbers(number)
+def player_numbers(team_name)
   new_jersey_array=[]
     game_hash.each do |team_name, team_info|
       team_info[:players].each do |player|
