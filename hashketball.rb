@@ -164,5 +164,5 @@ end
 
 def team_names(name)
     binding.pry
-  end
+
 end
